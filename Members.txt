@@ -2,11 +2,7 @@ LIST OF MEMBERS FOR TEAM XXX
  
 MEMBER 1 Dean Kyriakos
  
-<<<<<<< HEAD
 MEMBER 2 Lachlan Angel
-=======
-MEMBER 2 NAME
->>>>>>> origin/master
 
 MEMBER 3 NAME
  
